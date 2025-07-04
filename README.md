@@ -20,4 +20,4 @@ Weather API Dashboard in Power BI
   ⚙️ Data transformation using Power Query Editor
 
 **Screenshots:**
-
+https://github.com/vaishnavimalliga/Weather-dashboard/blob/main/Weather%20Dashboard%20Screenshot.png
